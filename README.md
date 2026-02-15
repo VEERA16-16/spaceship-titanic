@@ -1,18 +1,5 @@
-# 🚀 Spaceship Titanic Kaggle (0.8027 LB - Top 2%)
+# 🚀 Spaceship Titanic Kaggle Competition
+## **0.8027 Public LB Score | Top 2% (Rank ~700/30,000)**
 
-**Chennai AI Student | ML Engineer Portfolio**
-
-## Results
-| Model | CV Score | Leaderboard |
-|-------|----------|-------------|
-| XGBoost | 0.802 | **0.8027** 🎯 |
-
-![LB Screenshot](Screenshot-2026-02-15-233245.jpg)
-
-## Tech
-- Feature Engineering: Cabin Deck/Side, Group Size
-- XGBoost + Random Forest Ensemble
-- Cross-Validation: 5-Fold
-
-**Notebook**: main.ipynb
-**Submission**: submission.csv (0.8027 LB)
+![Kaggle](https://img.shields.io/badge/Kaggle-0.8027%20LB-20C997?style=for-the-badge&logo=kaggle&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-CV%200.802-4257B6?style=for
